@@ -2,7 +2,7 @@
 
 > 🇬🇧 [Read this article in English](README.en.md)
 
-Si alguna vez has estado en contacto con alguna base de datos o sistema, seguro te has tenido la necesidad de saber como se están comportando, y es que al igual que un auto entender los parámetros que afectan el comportamiento tales como el rendimiento, la velocidad o el rango, nos ayudan a saber si algo está mal o si tenemos recuross para poder llegar de punto A a punto B.
+Si alguna vez has estado en contacto con alguna base de datos o sistema, seguro te has tenido la necesidad de saber como se están comportando, y es que al igual que un auto entender los parámetros que afectan el comportamiento tales como el rendimiento, la velocidad o el rango, nos ayudan a saber si algo está mal o si tenemos recuross para poder llegar de punto "A" a punto "B".
 
 He recopilado algunas ideas de monitoreo usando herramientas como Amazon Managed Grafana y Cloudwatch con alertas por Slack, esperando que pueda contribuir y ayudar a los demás a tener algunas ideas de como monitorizar un Data warehouse:
 
